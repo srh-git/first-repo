@@ -1,1 +1,2 @@
 Feature 5
+Second developer: 5.2 additional feature
